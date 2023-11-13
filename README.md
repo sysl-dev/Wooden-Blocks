@@ -8,13 +8,10 @@ Wooden Blocks is a library that makes using Box2D a bit easier in love.
 
 Z - Left / X - Right / Space - Launch
 
-# Download
-Grab the latest version [here](https://github.com/sysl-dev/Patchwork/tree/main/library/Quilt/Kit/Wooden_Blocks), or use the [full Patchwork Library](https://github.com/sysl-dev/Patchwork).
-
 ## Using the Library
 1. Require it.
 ```lua
-local Wb = require("library.Quilt.Wooden_Blocks")
+local Wb = require("library.Wooden_Blocks")
 ```
 2. Run the setup and assign defaults.
 ```lua

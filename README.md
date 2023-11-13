@@ -2,7 +2,7 @@
 Wooden Blocks is a library that makes using Box2D a bit easier in love.
 
 # Test File (Love 11.4)
-[Love File](https://github.com/sysl-dev/Patchwork/blob/main/.test/WoodenBlockTest.love)
+[Love File](https://github.com/sysl-dev/Wooden-Blocks/raw/main/WoodenBlockTest.love)
 
 <img src="https://user-images.githubusercontent.com/13181256/180626724-9c54b5ef-c527-4df1-a166-58a8b1cb4eaf.gif" height="200">
 
